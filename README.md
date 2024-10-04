@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Sanjana Senevirathna, from Sri Lanka</h2>
 
-- 👋 Hi, I’m @Sanjana0823
+- 👋 Hi, I’m Sanjana Senevirathna 
 - 👀 I’m interested in innovative ideas
 - 🌱 I’m currently learning Software Engineering at University of westminster
 - 💞️ I’m looking to collaborate on Team
