@@ -4,7 +4,7 @@
 - 👀 I’m interested in innovative ideas
 - 🌱 I’m currently learning Software Engineering at University of westminster
 - 💞️ I’m looking to collaborate on Team
-- 📫 You can reach me via : linkedIn => https://www.linkedin.com/feed/update/urn:li:activity:7242063862915588097/
+- 📫 You can reach me via : linkedIn => https://www.linkedin.com/in/sanjana-senevirathna-09421b264/
 
 <!---
 Sanjana0823/Sanjana0823 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
